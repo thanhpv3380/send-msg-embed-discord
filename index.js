@@ -90,7 +90,6 @@ client.on("ready", async () => {
 });
 
 // token của bot
-const DISCORD_BOT_TOKEN =
-  "OTEwMjM2NjY1MzMzODA5MjEz.YZP59A.Bit2OkttSDglADoNYNyZ-xZt9NU";
+const DISCORD_BOT_TOKEN = "";
 
 client.login(DISCORD_BOT_TOKEN);
